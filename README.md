@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Indrajit Dan</h1>
-<h3 align="center">🚀 AWS Certified Solutions Architect | DevOps Engineer | Cloud Infrastructure Automator</h3>
+<h3 align="center">🚀 AWS Certified Solutions Architect | DevOps Engineer</h3>
+
+<a href="https://www.linkedin.com/in/iamindrajitdan/" target="_blank">
+
+<br/><br/>
+<img src="./images/certs/res.png" width="105"/>
+<img src="./images/certs/ccp.png" width="105"/>
+<img src="./images/certs/saa.png" width="105"/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="DevOps Animation" />
@@ -13,12 +20,37 @@
 
 ### 🧑‍💻 About Me
 
-🎓 Final-year Computer Science student at **Kazi Nazrul University** (2021–2024)  
-☁️ **AWS Certified Solutions Architect Associate** & **Cloud Practitioner**  
-🔧 Proficient in **AWS**, **Azure**, **EKS**, **Terraform**, **Docker**, **Ansible**, **CI/CD**, **Linux**  
-⚙️ Achieved **70% faster deployments**, **zero-downtime rollouts**, and **15% cloud cost savings**  
-🔒 Focused on secure, scalable, and automated cloud-native infrastructure  
-🧪 Preparing for **Azure Developer Associate**
+AWS Certified Solutions Architect Associate and AWS
+Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps automation, and Infrastructure as Code. Skilled in designing, deployed, and managed secure, scalable environments using Terraform, Ansible, Docker, and Kubernetes.
+
+**Right now I’m focused on:**
+
+- Gaining hands-on experience with AWS core services (EC2, S3, Lambda, VPC, IAM, RDS, EKS)
+- Building and managing containerised applications using Docker
+- Writing Bash scripts to automate real-world DevOps and cloud workflows
+- Learning and implementing CI/CD pipelines for deployment and infrastructure automation
+
+## 🔧 Tech stack
+
+<!-- Core -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Containers & caching -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<!-- Cloud (AWS core services) -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=3600)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=3600)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white&cacheSeconds=3600)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white&cacheSeconds=3600)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=3600)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=3600)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white&cacheSeconds=3600)
+![ECR](https://img.shields.io/badge/ECR-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white&cacheSeconds=3600)
+![EKS](https://img.shields.io/badge/EKS-FF4F8B?style=for-the-badge&logo=kubernetes&logoColor=white&cacheSeconds=3600)
 
 ---
 
@@ -62,13 +94,19 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamindrajitdan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamindrajitdan&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamindrajitdan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanenv&theme=github-dark" width="75%"/>
 </p>
+
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanenv&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanenv&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -101,7 +139,6 @@
 
 - ✅ AWS Certified Solutions Architect Associate  
 - ✅ AWS Certified Cloud Practitioner  
-- ⏳ Azure Developer Associate *(In Progress)*
 
 ---
 
