@@ -3,7 +3,7 @@
 <h3>🚀 AWS Certified Solutions Architect | DevOps Engineer</h3>
 
 <a href="https://www.linkedin.com/in/iamindrajitdan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" />
 </a>
 
 <br/><br/>
