@@ -104,12 +104,12 @@ Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps 
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanenv&theme=github-dark" width="75%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamindrajitdan&theme=github-dark" width="75%"/>
 </p>
 
-![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanenv&show_icons=true&theme=tokyonight&hide_border=true)
+![Hasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamindrajitdan&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanenv&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamindrajitdan&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -139,14 +139,3 @@ Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps 
 </p>
 
 ---
-
-### 🧾 Certifications
-
-- ✅ AWS Certified Solutions Architect Associate  
-- ✅ AWS Certified Cloud Practitioner  
-
----
-
-### ⚡ Fun Fact
-
-> I automate everything — even my coffee machine has a CI/CD pipeline ☕🚀
