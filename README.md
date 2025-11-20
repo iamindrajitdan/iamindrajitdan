@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Indrajit Dan</h1>
-<h3 align="center">🚀 AWS Certified Solutions Architect | DevOps Engineer</h3>
+<div align="center">
+<h1>Hi 👋, I'm Indrajit Dan</h1>
+<h3>🚀 AWS Certified Solutions Architect | DevOps Engineer</h3>
 
 <a href="https://www.linkedin.com/in/iamindrajitdan/" target="_blank">
 
@@ -15,6 +16,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamindrajitdan&label=Profile%20Views&color=0e75b6&style=flat" alt="iamindrajitdan" />
 </p>
+</div>
 
 ---
 
