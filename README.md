@@ -120,10 +120,10 @@ Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps 
 ### 📬 Contact Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/iamindrajitdan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://x.com/iamindrajitdan" target="_blank"><img src="https://img.shields.io/badge/-X-000000?logo=x&style=for-the-badge" /></a>
-  <a href="https://medium.com/@indrajitdan" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&style=for-the-badge" /></a>
-  <a href="mailto:iamindrajitdan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://instagram.com/itisjit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge" /></a>
-  <a href="https://facebook.com/iamindrajitdan" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/iamindrajitdan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" alt="LinkedIn" /></a>
+  <a href="https://x.com/iamindrajitdan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" alt="X" /></a>
+  <a href="https://medium.com/@indrajitdan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" alt="Medium" /></a>
+  <a href="mailto:iamindrajitdan@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" height="40" alt="Gmail" /></a>
+  <a href="https://instagram.com/itisjit" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" alt="Instagram" /></a>
+  <a href="https://facebook.com/iamindrajitdan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" alt="Facebook" /></a>
 </div>
