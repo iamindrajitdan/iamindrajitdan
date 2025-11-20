@@ -32,7 +32,7 @@ Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps 
 
 - Gaining hands-on experience with AWS core services (EC2, S3, Lambda, VPC, IAM, RDS, EKS)
 - Building and managing containerised applications using Docker
-- Writing Bash scripts to automate real-world DevOps and cloud workflows
+- Writing scripts to automate real-world DevOps and cloud workflows
 - Learning and implementing CI/CD pipelines for deployment and infrastructure automation
 
 ## 🔧 Tech stack
