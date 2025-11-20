@@ -3,6 +3,8 @@
 <h3>🚀 AWS Certified Solutions Architect | DevOps Engineer</h3>
 
 <a href="https://www.linkedin.com/in/iamindrajitdan/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+</a>
 
 <br/><br/>
 <img src="./images/certs/res.png" width="105"/>
@@ -16,6 +18,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=iamindrajitdan&label=Profile%20Views&color=0e75b6&style=flat" alt="iamindrajitdan" />
 </p>
+
 </div>
 
 ---
