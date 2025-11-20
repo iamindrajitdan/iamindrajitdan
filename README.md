@@ -119,7 +119,7 @@ Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps 
 
 ### 📬 Contact Me
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/iamindrajitdan" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
   </a>
@@ -138,6 +138,4 @@ Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps 
   <a href="https://facebook.com/iamindrajitdan" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&style=for-the-badge" />
   </a>
-</p>
-
----
+</div>
