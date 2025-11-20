@@ -79,6 +79,14 @@ Certified Cloud Practitioner with hands-on expertise in cloud platforms, DevOps 
 - Zero-downtime deployments with rolling updates (maxSurge: 8)
 - Secured environment using Kubernetes Secrets
 
+#### 🔄 End-to-End CI/CD Pipeline – Automated Deployment Workflow
+- Built fully automated CI/CD pipeline using **Jenkins**, **GitHub**, and **Docker**
+- Implemented automated testing and code quality checks with **SonarQube** integration
+- Deployed containerized applications to **AWS ECS** and **EKS** clusters automatically
+- Configured **ArgoCD** for GitOps-based continuous deployment with real-time synchronization
+- Monitored pipeline health with **Prometheus** and **Grafana** dashboards
+- Reduced deployment time by 80% with automated rollback capabilities
+
 #### 🏗️ AWS Multi-Tier Architecture
 - Designed production-grade system with **ELB**, **Auto Scaling Groups**, and **RDS**
 - Saved 15% monthly cloud spend using **Reserved Instances** and **S3 Lifecycle Policies**
